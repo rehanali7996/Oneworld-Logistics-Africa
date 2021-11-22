@@ -23,8 +23,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -45,5 +43,4 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://rehanali7996.github.io/Oneworld-Logistics-Africa"
 }
